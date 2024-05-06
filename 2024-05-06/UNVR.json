@@ -1,0 +1,276 @@
+{
+  "bandar_detector": {
+    "average": 2611.316,
+    "avg": {
+      "accdist": "Big Acc",
+      "amount": 3960652500,
+      "percent": 22.328117,
+      "vol": 15167.267
+    },
+    "avg5": {
+      "accdist": "Big Acc",
+      "amount": 4712851000,
+      "percent": 26.568623,
+      "vol": 18047.8
+    },
+    "broker_accdist": "Dist",
+    "number_broker_buysell": 11,
+    "top1": {
+      "accdist": "Big Acc",
+      "amount": 6478152700,
+      "percent": 36.520485,
+      "vol": 24808
+    },
+    "top3": {
+      "accdist": "Big Acc",
+      "amount": 4906662400,
+      "percent": 27.661234,
+      "vol": 18790
+    },
+    "top5": {
+      "accdist": "Normal Acc",
+      "amount": 2262444000,
+      "percent": 12.754494,
+      "vol": 8664
+    },
+    "top10": {
+      "accdist": "Neutral",
+      "amount": -359578200,
+      "percent": -2.0271165,
+      "vol": -1377
+    },
+    "total_buyer": 31,
+    "total_seller": 20,
+    "value": 17738408000,
+    "volume": 67929
+  },
+  "broker_summary": {
+    "brokers_buy": [
+      {
+        "blot": "38086",
+        "blotv": "4.8806e+06",
+        "bval": "9.974235e+09",
+        "bvalv": "1.2772488e+10",
+        "netbs_broker_code": "AK",
+        "netbs_buy_avg_price": "2616.991353522108",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Asing"
+      },
+      {
+        "blot": "9061",
+        "blotv": "1.3256e+06",
+        "bval": "2.348223e+09",
+        "bvalv": "3.444046e+09",
+        "netbs_broker_code": "YU",
+        "netbs_buy_avg_price": "2598.10350030175",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Asing"
+      },
+      {
+        "blot": "5977",
+        "blotv": "618000",
+        "bval": "1.556632e+09",
+        "bvalv": "1.609297e+09",
+        "netbs_broker_code": "SQ",
+        "netbs_buy_avg_price": "2604.0404530744336",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "5689",
+        "blotv": "626400",
+        "bval": "1.478582e+09",
+        "bvalv": "1.628273e+09",
+        "netbs_broker_code": "OD",
+        "netbs_buy_avg_price": "2599.4141123882505",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Pemerintah"
+      },
+      {
+        "blot": "2617",
+        "blotv": "261700",
+        "bval": "6.8042e+08",
+        "bvalv": "6.8042e+08",
+        "netbs_broker_code": "KZ",
+        "netbs_buy_avg_price": "2600",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Asing"
+      },
+      {
+        "blot": "1728",
+        "blotv": "253300",
+        "bval": "4.55589e+08",
+        "bvalv": "6.64964e+08",
+        "netbs_broker_code": "KK",
+        "netbs_buy_avg_price": "2625.203316225819",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Asing"
+      },
+      {
+        "blot": "1300",
+        "blotv": "130000",
+        "bval": "3.38e+08",
+        "bvalv": "3.38e+08",
+        "netbs_broker_code": "DD",
+        "netbs_buy_avg_price": "2600",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "592",
+        "blotv": "149100",
+        "bval": "1.56071e+08",
+        "bvalv": "3.88696e+08",
+        "netbs_broker_code": "XC",
+        "netbs_buy_avg_price": "2606.9483568075116",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "448",
+        "blotv": "84400",
+        "bval": "1.1788e+08",
+        "bvalv": "2.20198e+08",
+        "netbs_broker_code": "CP",
+        "netbs_buy_avg_price": "2608.9810426540284",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Asing"
+      },
+      {
+        "blot": "384",
+        "blotv": "70700",
+        "bval": "9.9317e+07",
+        "bvalv": "1.83667e+08",
+        "netbs_broker_code": "XL",
+        "netbs_buy_avg_price": "2597.8359264497876",
+        "netbs_date": "20240503",
+        "netbs_stock_code": "UNVR",
+        "type": "Lokal"
+      }
+    ],
+    "brokers_sell": [
+      {
+        "netbs_broker_code": "ZP",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2610.123491439798",
+        "netbs_stock_code": "UNVR",
+        "slot": "-13278",
+        "slotv": "2.1378e+06",
+        "sval": "-3.473909e+09",
+        "svalv": "5.579922e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "RX",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2618.157327586207",
+        "netbs_stock_code": "UNVR",
+        "slot": "-10632",
+        "slotv": "1.392e+06",
+        "sval": "-2.780786e+09",
+        "svalv": "3.644475e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "LG",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2617.2004769921436",
+        "netbs_stock_code": "UNVR",
+        "slot": "-10424",
+        "slotv": "1.4256e+06",
+        "sval": "-2.730521e+09",
+        "svalv": "3.731081e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "DX",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2603.5060483870966",
+        "netbs_stock_code": "UNVR",
+        "slot": "-9739",
+        "slotv": "992000",
+        "sval": "-2.535476e+09",
+        "svalv": "2.582678e+09",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "CC",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2606.659153342255",
+        "netbs_stock_code": "UNVR",
+        "slot": "-8693",
+        "slotv": "1.4197e+06",
+        "sval": "-2.267961e+09",
+        "svalv": "3.700674e+09",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "AZ",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2606.1721588773335",
+        "netbs_stock_code": "UNVR",
+        "slot": "-7780",
+        "slotv": "798100",
+        "sval": "-2.027739e+09",
+        "svalv": "2.079986e+09",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "YP",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2605.0475134621474",
+        "netbs_stock_code": "UNVR",
+        "slot": "-3397",
+        "slotv": "631400",
+        "sval": "-8.87949e+08",
+        "svalv": "1.644827e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "BK",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2605.191497331211",
+        "netbs_stock_code": "UNVR",
+        "slot": "-2491",
+        "slotv": "1.0679e+06",
+        "sval": "-6.45777e+08",
+        "svalv": "2.782084e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "XA",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2588.7336244541484",
+        "netbs_stock_code": "UNVR",
+        "slot": "-508",
+        "slotv": "114500",
+        "sval": "-1.31001e+08",
+        "svalv": "2.9641e+08",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "TP",
+        "netbs_date": "20240503",
+        "netbs_sell_avg_price": "2587.5",
+        "netbs_stock_code": "UNVR",
+        "slot": "-317",
+        "slotv": "32000",
+        "sval": "-8.2022e+07",
+        "svalv": "8.28e+07",
+        "type": "Asing"
+      }
+    ],
+    "symbol": "UNVR"
+  },
+  "from": "2024-05-03",
+  "to": "2024-05-03"
+}
